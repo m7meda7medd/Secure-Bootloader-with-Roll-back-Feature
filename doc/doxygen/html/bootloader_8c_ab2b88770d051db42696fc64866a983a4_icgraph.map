@@ -1,0 +1,5 @@
+<map id="BL_DeInit" name="BL_DeInit">
+<area shape="rect" id="node1" title="Deinitializes all peripherals used by the bootloader." alt="" coords="432,13,516,39"/>
+<area shape="rect" id="node2" href="$bootloader_8c.html#a4c71ea3b111cd0e081b281448572160e" title=" " alt="" coords="219,13,384,39"/>
+<area shape="rect" id="node3" href="$bootloader_8c.html#a90f784a77104e676d850b3d6f43adf26" title=" " alt="" coords="5,5,171,47"/>
+</map>

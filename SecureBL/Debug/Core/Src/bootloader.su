@@ -1,0 +1,17 @@
+../Core/Src/bootloader.c:828:1:Bootloader_EraseFlash	40	static
+../Core/Src/bootloader.c:89:12:BL_WriteToFlash	24	static
+../Core/Src/bootloader.c:127:1:BL_WriteAppsInfoToFlash	16	static
+../Core/Src/bootloader.c:359:1:BL_VerifyApplication	48	static
+../Core/Src/bootloader.c:424:1:Get_CurrentBL_Info	0	static
+../Core/Src/bootloader.c:466:1:BL_DeInit	0	static
+../Core/Src/bootloader.c:476:1:BL_SendAck	16	static
+../Core/Src/bootloader.c:706:1:BL_InstallApplication	96	static
+../Core/Src/bootloader.c:752:1:Set_ValidUpdate	104	static
+../Core/Src/bootloader.c:506:1:Bootloader_UpdateAPP.isra	616	static
+../Core/Src/bootloader.c:790:1:BL_JumpToApplication	16	static,ignoring_inline_asm
+../Core/Src/bootloader.c:776:1:BL_JumpToApplication_Wrapper	0	static
+../Core/Src/bootloader.c:918:1:BL_Init	0	static
+../Core/Src/bootloader.c:926:1:BL_SendMSG	228	static
+../Core/Src/bootloader.c:1078:1:generate_random_number	16	static
+../Core/Src/bootloader.c:1144:1:Bootloader_MemRead	640	static
+../Core/Src/bootloader.c:169:1:BL_FetchUARTCommand	48	static

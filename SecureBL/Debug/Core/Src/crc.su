@@ -1,0 +1,3 @@
+../Core/Src/crc.c:11:1:CRC32_Init	0	static
+../Core/Src/crc.c:29:1:CRC32_Calculate	16	static
+../Core/Src/crc.c:61:1:CRC32_ResetCRC	0	static

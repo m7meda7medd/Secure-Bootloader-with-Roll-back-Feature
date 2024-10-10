@@ -1,0 +1,4 @@
+<map id="BL_WriteAppsInfoToFlash" name="BL_WriteAppsInfoToFlash">
+<area shape="rect" id="node1" title="Writes application info structure to flash memory." alt="" coords="183,5,369,32"/>
+<area shape="rect" id="node2" href="$bootloader_8c.html#a8e663f798f9a0efb5884ec1aad737d6f" title=" " alt="" coords="5,5,135,32"/>
+</map>

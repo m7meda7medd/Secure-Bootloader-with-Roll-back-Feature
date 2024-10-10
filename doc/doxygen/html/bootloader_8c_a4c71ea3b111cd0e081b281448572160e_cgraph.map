@@ -1,0 +1,4 @@
+<map id="BL_JumpToApplication" name="BL_JumpToApplication">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,171,32"/>
+<area shape="rect" id="node2" href="$bootloader_8c.html#ab2b88770d051db42696fc64866a983a4" title="Deinitializes all peripherals used by the bootloader." alt="" coords="219,5,303,32"/>
+</map>

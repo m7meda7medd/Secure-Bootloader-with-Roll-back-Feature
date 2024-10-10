@@ -1,0 +1,5 @@
+<map id="BL_SendMSG" name="BL_SendMSG">
+<area shape="rect" id="node1" title=" " alt="" coords="219,42,325,69"/>
+<area shape="rect" id="node2" href="$bootloader_8c.html#a90f784a77104e676d850b3d6f43adf26" title=" " alt="" coords="5,5,171,47"/>
+<area shape="rect" id="node3" href="$bootloader_8c.html#ad8d17ad8ec88abc423fe443d84ba9f05" title="Verifies if an application is present and valid in memory." alt="" coords="11,71,165,98"/>
+</map>

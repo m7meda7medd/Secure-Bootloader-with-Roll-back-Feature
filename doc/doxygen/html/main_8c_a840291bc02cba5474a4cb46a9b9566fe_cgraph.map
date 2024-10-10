@@ -1,7 +1,0 @@
-<map id="main" name="main">
-<area shape="rect" id="node1" title="The application entry point." alt="" coords="5,31,60,57"/>
-<area shape="rect" id="node2" href="$bootloader_8c.html#a5b6188ab6a1815a912044c55308fd261" title=" " alt="" coords="152,5,219,32"/>
-<area shape="rect" id="node4" href="$main_8c.html#a70af21c671abfcc773614a9a4f63d920" title="System Clock Configuration." alt="" coords="108,56,263,83"/>
-<area shape="rect" id="node3" href="$crc_8c.html#ac0bdca5c9efc209f0b3ab003740d7048" title="Initializes the CRC module by setting the CRC register to the initial value." alt="" coords="319,5,413,32"/>
-<area shape="rect" id="node5" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="311,56,421,83"/>
-</map>

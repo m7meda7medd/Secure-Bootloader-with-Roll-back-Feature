@@ -1,6 +1,0 @@
-<map id="BL_JumpToApplication_Wrapper" name="BL_JumpToApplication_Wrapper">
-<area shape="rect" id="node1" title=" " alt="" coords="5,23,171,65"/>
-<area shape="rect" id="node2" href="$bootloader_8c.html#a4c71ea3b111cd0e081b281448572160e" title=" " alt="" coords="219,5,384,32"/>
-<area shape="rect" id="node4" href="$bootloader_8c.html#a6901e0d7fe54ca7eba8a1c4bc8c40dce" title=" " alt="" coords="248,56,355,83"/>
-<area shape="rect" id="node3" href="$bootloader_8c.html#ab2b88770d051db42696fc64866a983a4" title="Deinitializes all peripherals used by the bootloader." alt="" coords="432,5,516,32"/>
-</map>
